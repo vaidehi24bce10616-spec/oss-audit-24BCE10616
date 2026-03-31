@@ -5,10 +5,15 @@ I’m Vaidehi Gupta (Vaidehi, reg no 24BCE10616). I wrote some small shell scrip
 
 What’s inside:  
 script1.sh - System Identity Report (kernel, distro, uptime, etc.)
+
 script2.sh - FOSS Package Inspector for git
+
 script3.sh - Disk and Permission Auditor for a few common folders
+
 script4.sh - Log file analyzer (counts keyword matches)
+
 script5.sh - Open Source Manifesto Generator (interactive)
+
 
 
 How to run the scripts:  
